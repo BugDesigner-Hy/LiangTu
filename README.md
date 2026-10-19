@@ -2,6 +2,10 @@
 
 截图挂在晾衣绳上。Windows 托盘应用：接管蓝盾（Tipray）`Ctrl+Alt+P` 截图的另存为流程，把截图挂到屏幕顶部，完整替代旧版「蓝盾截图助手」。
 
+![晾图：截图挂在屏幕顶部的晾衣绳上](docs/images/hero.png)
+
+<p align="center"><sub>界面示意图</sub></p>
+
 交互参考开源 macOS 应用 [tendedero](https://github.com/alejandrobujan/tendedero)（仅参考实现思路；**未使用**其名称与图标）。
 
 ## 功能
