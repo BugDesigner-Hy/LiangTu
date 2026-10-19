@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.dll
+*.exe
+*.pdb
+*.log
+publish/
+
+# 打包产物：体积大，不入库（发布走 GitHub Releases）
+dist/
+*.zip
+
+# 编辑器临时文件
+.idea/

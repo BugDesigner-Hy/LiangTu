@@ -1,0 +1,10 @@
+global using System.IO;
+global using System.Windows;
+global using System.Windows.Controls;
+global using System.Windows.Input;
+global using System.Windows.Media;
+global using System.Windows.Media.Animation;
+global using System.Windows.Threading;
+global using DrawingPoint = System.Drawing.Point;
+global using WpfPoint = System.Windows.Point;
+global using WpfRect = System.Windows.Rect;
